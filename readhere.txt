@@ -3,3 +3,9 @@
   - node -v
   - npm -v
 
+- after ninyu pull aning repo e paste dayun ni sa terminal: npm install
+- after paste ni sa terminal: npm install lucide-react
+
+- for running: npm run dev
+- to stop: ctrl + c
+- open: http://localhost:5173
