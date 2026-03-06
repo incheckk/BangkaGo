@@ -1,0 +1,5 @@
+- download sa mo daan ug node.js
+  - e check ninyu kung na download na:
+  - node -v
+  - npm -v
+
